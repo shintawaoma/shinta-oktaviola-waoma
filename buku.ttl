@@ -1,0 +1,114 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix book: <http://purl.org/NET/book/vocab#> .
+
+
+book:book  dbo:judul  "Metropop: Ikan Kecil" ;
+        dbo:penulis  "Ossy Firstan" ;
+        dbo:jlh_halaman   "248 Halaman".
+
+book:book1  dbo:judul  "Lit: Moon And Her Sky" ;
+        dbo:penulis  "Kansa Airlangga" ;
+        dbo:jlh_halaman   "192 Halaman" .
+
+book:book2  dbo:judul  "Hr: The Rogue Not Taken" ;
+        dbo:penulis  "Sarah Maclean" ;
+        dbo:jlh_halaman   "520 Halaman" .
+
+book:book3  dbo:judul  "Teenlit: Deuce" ;
+        dbo:penulis  "Netty Virgiantini" ;
+        dbo:jlh_halaman   "254 Halaman" .
+
+book:book4  dbo:judul  "Teenlit: Troublemaker Couple" ;
+        dbo:penulis  "Pretty Angelia" ;
+        dbo:jlh_halaman   "256 Halaman" .
+
+book:book5  dbo:judul  "Kotak Waktu" ;
+        dbo:penulis  "Pudjangga Lama" ;
+        dbo:jlh_halaman   "256 Halaman" .
+
+book:book6  dbo:judul  "On My Own" ;
+        dbo:penulis  "Rina Kartomisastro" ;
+        dbo:jlh_halaman   "392 Halaman" .
+
+book:book7  dbo:judul  "Sibuk Bahagia" ;
+        dbo:penulis  "Mahdi Elmosawi" ;
+        dbo:jlh_halaman   "269 Halaman" .
+
+book:book8  dbo:judul  "Quarter Life Crisis" ;
+        dbo:penulis  "Gerhana Nurhayati Putri" ;
+        dbo:jlh_halaman   "112 Halaman" .
+book:book9  dbo:judul  "The Other 8 Hours" ;
+        dbo:penulis  "Robert Pagliarini" ;
+        dbo:jlh_halaman   "462 Halaman" .
+
+book:book10  dbo:judul  "Fish Eye" ;
+        dbo:penulis  "Handoko Hendroyono" ;
+        dbo:jlh_halaman   "218 Halaman" .
+
+book:book11  dbo:judul  "Melati Di Taman Keberagaman" ;
+        dbo:penulis  "Mathilda Birowo" ;
+        dbo:jlh_halaman   "304 Halaman". 
+
+book:book12  dbo:judul  "Hujan Duit Dari Langit" ;
+        dbo:penulis  "Syamsul Arifin" ;
+        dbo:jlh_halaman   "180 Halaman" .
+
+book:book13  dbo:judul  "Dignity" ;
+        dbo:penulis  "Dita Soedarjo" ;
+        dbo:jlh_halaman   "152 Halaman" .
+
+book:book14  dbo:judul  "Life Is Boring" ;
+        dbo:penulis  "Abdillah F. Hasan" ;
+        dbo:jlh_halaman   "320 Halaman" .
+
+book:book15  dbo:judul  "Aku Tidak Buta" ;
+        dbo:penulis  "Rachel Stefanie. H" ;
+        dbo:jlh_halaman   "170 Halaman" .
+
+book:book16  dbo:judul  "Anak Berkebutuhan Khusus" ;
+        dbo:penulis  "Martini Jamaris" ;
+        dbo:jlh_halaman   "154 Halaman" .
+
+book:book17  dbo:judul  "Cerdas Sebelum Lulus" ;
+        dbo:penulis  "A. Satria" ;
+        dbo:jlh_halaman   "304 Halaman" .
+
+book:book18  dbo:judul  "Batas Nalar" ;
+        dbo:penulis  "Donald B. Caine" ;
+        dbo:jlh_halaman   "458 Halaman" .
+
+book:book19  dbo:judul  "Psikologi Pendidikan" ;
+        dbo:penulis  "Mahmud" ;
+        dbo:jlh_halaman   "370 Halaman" .
+
+book:book20  dbo:judul  "Psikologi Indonesia" ;
+        dbo:penulis  "Subhan El Hafiz, DKK" ;
+        dbo:jlh_halaman   "388 Halaman" .
+
+book:book21  dbo:judul  "Hippie" ;
+        dbo:penulis  "Paulo Coelho" ;
+        dbo:jlh_halaman   "320 Halaman" .
+
+book:book22  dbo:judul  "Tempat Paling Sunyi" ;
+        dbo:penulis  "Arafat Nur" ;
+        dbo:jlh_halaman   "328 Halaman" .
+
+book:book23  dbo:judul  "Pachinko" ;
+        dbo:penulis  "Min Jin Lee" ;
+        dbo:jlh_halaman   "576 Halaman" .                  
+
+book:book24  dbo:judul  "Jalan Keempat" ;
+        dbo:penulis  "M. Faizi" ;
+        dbo:jlh_halaman   "68 Halaman" .
+
+book:book25  dbo:judul  "Lusi Lindri" ;
+        dbo:penulis  "Y.b. Mangunwijaya" ;
+        dbo:jlh_halaman   "380 Halaman" .
+
+book:book26  dbo:judul  "In Berween, Di Antara" ;
+        dbo:penulis  "Robin. B, Angelina. E" ;
+        dbo:jlh_halaman   "132 Halaman" .
+
+book:book27  dbo:judul  "Lampuki" ;
+        dbo:penulis  "Arafat Nur" ;
+        dbo:jlh_halaman   "344 Halaman" .

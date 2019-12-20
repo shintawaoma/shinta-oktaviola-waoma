@@ -1,0 +1,151 @@
+@prefix dbo:   <http://dbpedia.org/ontology/> .
+@prefix movie: <http://data.linkedmdb.org/resource/movie/> .
+
+movie:film  dbo:Actor  "Robert Downey, Jr" ;
+        dbo:Genre  "Fiction" ;
+        dbo:date   "2019-04-24" ;
+        dbo:time   "181 Minutes" ;
+        dbo:title  "Avenger : Endgame" .
+
+movie:film1  dbo:Actor  "Brie Larson" ;
+        dbo:Genre  "Fantasy" ;
+        dbo:date   "2019-03-08" ;
+        dbo:time   "124 Minutes" ;
+        dbo:title  "Captain Marvel" .
+
+movie:film2  dbo:Actor  "Joaquin Phoenix" ;
+	dbo:Genre  "Action" ;
+        dbo:date   "2019-08-31" ;
+        dbo:time   "122 Minutes" ;
+        dbo:title  "Joker" .
+
+movie:film3  dbo:Actor  "Idina Menzel" ;
+        dbo:Genre  "Comedy" ;
+        dbo:Date   "2019-11-20" ;
+        dbo:Time   "103 Minutes" ;
+        dbo:Title  "Frozen 2" .
+
+movie:film4  dbo:Actor  "Will Smith" ;
+        dbo:Genre  "Comedy/Fantasy" ;
+        dbo:date   "2019-05-24" ;
+        dbo:time   "128 Minutes" ;
+        dbo:title  "Aladin" .
+
+movie:film5  dbo:Actor  "Song Kang-ho" ;
+        dbo:Genre  "Comedy" ;
+        dbo:date   "2019-06-24" ;
+        dbo:time   "132 Minutes" ;
+        dbo:title  "Parasite" .
+
+movie:film6  dbo:Actor  "Dwayne Johnson" ;
+        dbo:Genre  "Action" ;
+        dbo:date   "2019-12-13" ;
+        dbo:time   "123 Minutes" ;
+        dbo:title  "Jumanji: The Next Level" .
+
+movie:film7  dbo:Actor  "Tom Hanks" ;
+        dbo:Genre  "Comedy" ;
+        dbo:date   "2019-06-21" ;
+        dbo:time   "100 Minutes" ;
+        dbo:title  "Toy Story 4" .
+
+      
+movie:film8  dbo:Actor  "Tom Holland" ;
+        dbo:Genre  "Action" ;
+        dbo:date   "2019-07-03" ;
+        dbo:time   "129 Minutes" ;
+        dbo:title  "Spider-Man: Far From Home" .
+
+      
+movie:film9  dbo:Actor  "Saoirse Ronan" ;
+        dbo:Genre  "Romance" ;
+        dbo:date   "2019-12-25" ;
+        dbo:time   "135 Minutes" ;
+        dbo:title  "Litle Woman" .
+
+      
+movie:film10  dbo:Actor  "Florence Pugh" ;
+        dbo:Genre  "Horor" ;
+        dbo:date   "2019-07-10" ;
+        dbo:time   "147 Minutes" ;
+        dbo:title  "Midsommar" .
+
+      
+movie:film11  dbo:Actor  "Abimana Aryasatya" ;
+        dbo:Genre  "Action" ;
+        dbo:date   "2019-08-29" ;
+        dbo:time   "123 Minutes" ;
+        dbo:title  "Gundala" .
+
+movie:film12  dbo:Actor  "Lupita Nyong'o" ;
+        dbo:Genre  "Horor" ;
+        dbo:date   "2019-03-20" ;
+        dbo:time   "116 Minutes" ;
+        dbo:title  "Us" .
+
+      
+movie:film13  dbo:Actor  "Maxime Alexandre" ;
+        dbo:Genre  "Horor" ;
+        dbo:date   "2019-07-12" ;
+        dbo:time   "87 Minutes" ;
+        dbo:title  "Crawl " .
+
+      
+movie:film14  dbo:Actor  "Willem Dafoe" ;
+        dbo:Genre  "Horor" ;
+        dbo:date   "2019-10-18" ;
+        dbo:time   "110 Minutes" ;
+        dbo:title  "The Lighthouse" .
+
+      
+movie:film15  dbo:Actor  "Tom Hanks" ;
+        dbo:Genre  "Drama" ;
+        dbo:date   "2019-11-22" ;
+        dbo:time   "107 Minutes" ;
+        dbo:title  "A Beautiful Day in the Neighborhood" .
+
+      
+movie:film16  dbo:Actor  "Will Smith" ;
+        dbo:Genre  "Action" ;
+        dbo:date   "2019-10-05" ;
+        dbo:time   "117 Minutes" ;
+        dbo:title  "Gemini Man" .
+		
+		
+movie:film17  dbo:Actor  "Noémie Merlant" ;
+        dbo:Genre  "Romance" ;
+        dbo:date   "2019-09-18" ;
+        dbo:time   "120 Minutes" ;
+        dbo:title  "Potrait of a Lady on Fire" .
+		
+
+movie:film18  dbo:Actor  "Asher Angel" ;
+        dbo:Genre  "Action" ;
+        dbo:date   "2019-04-02" ;
+        dbo:time   "132 Minutes" ;
+        dbo:title  "Shazam!" .
+				
+
+movie:film19  dbo:Actor  "Daniel Craig" ;
+        dbo:Genre  "Comedy" ;
+        dbo:date   "2019-11-27" ;
+        dbo:time   "130 Minutes" ;
+        dbo:title  "Knives Out" .
+
+
+movie:film20  dbo:Actor  "Zara JKT48" ;
+        dbo:Genre  "Education" ;
+        dbo:date   "2019-09-13" ;
+        dbo:time   "120 Minutes" ;
+        dbo:title  "2 Garis Biru" .
+      
+movie:film21  dbo:Actor  "Owen Wilson" ;
+        dbo:Genre  "Comedy" ;
+        dbo:date   "2012-09-18" ;
+        dbo:time   "108 Minutes" ;
+        dbo:title  "The Internship" .
+      
+
+      
+
+      
